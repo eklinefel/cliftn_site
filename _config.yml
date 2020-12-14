@@ -1,0 +1,38 @@
+
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
+# Site settings
+title: CLIFTN
+subtitle: "Electric BMX Bikes and Light Electric Road Bikes"
+url: "https://eklinefel.github.io"  # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/cliftn_site"
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
+page.title: "CLIFTN: Light Electric BMX and Road Bikes"
+
+# Build settings
+markdown: kramdown
+
+# Google analytics
+ga_tracking_id: "G-WNXK1BTECT"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
