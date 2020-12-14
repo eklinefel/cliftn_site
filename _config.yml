@@ -16,9 +16,10 @@ keep_files:
 # Site settings
 title: CLIFTN
 subtitle: "Electric BMX Bikes and Light Electric Road Bikes"
-url: "https://eklinefel.github.io"  # the base hostname & protocol for your site
-# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/cliftn_site"
+#url: "https://eklinefel.github.io"  # the base hostname & protocol for your site
+#baseurl: "/cliftn_site"
+url: "https://cliftn.com"  # the base hostname & protocol for your site
+baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 page.title: "CLIFTN: Light Electric BMX and Road Bikes"
