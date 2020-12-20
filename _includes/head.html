@@ -12,8 +12,14 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!--title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title-->
-<title>CLIFTN: Light Electric BMX and Road Bikes</title>
-<meta name="description" content="Electric BMX Bikes and Light Electric Road Bikes">
+<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<!--meta name="description" content="Electric BMX Bikes and Light Electric Road Bikes"-->
+<meta property="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+<meta property="og:description" name="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:site_name" content="{{site.title}}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 

@@ -4,6 +4,7 @@ title: Top 4 Electric BMX Bikes for 2021 [Updated List]
 subtitle: test1
 date: 2020-12-12 12:11:27
 author: Eric Klinefelter
+description: "NEW UPDATED LIST! The list of the best electric BMX bikes for 2021 is here.  These bikes show that electric BMX is going mainstream in 2021!"
 ---
 
 We've updated our list just in time for the New Year! There are some major players entering the electric BMX space and we're excited for what will be the first year of proper electric BMX bikes.

@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: CLIFTN
+title: "CLIFTN: Light Electric BMX and Road Bikes"
 subtitle: "Electric BMX Bikes and Light Electric Road Bikes"
 #url: "https://eklinefel.github.io"  # the base hostname & protocol for your site
 #baseurl: "/cliftn_site"
@@ -22,7 +22,10 @@ url: "https://cliftn.com"  # the base hostname & protocol for your site
 baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-page.title: "CLIFTN: Light Electric BMX and Road Bikes"
+#page.title: "CLIFTN: Light Electric BMX and Road Bikes"
+#site.title: 
+description: "We are developing state-of-the-art electric bikes.  Check out our latest Electric BMX and light Electric Road Bikes!"
+permalink: /:title/
 
 # Build settings
 markdown: kramdown
@@ -37,3 +40,7 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+
+plugins:
+  - jekyll-sitemap
