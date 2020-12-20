@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/welcome/</loc>
+<loc>https://cliftn.com/welcome/</loc>
 <lastmod>2020-12-10T05:11:27-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/electric-bmx/</loc>
+<loc>https://cliftn.com/electric-bmx/</loc>
 <lastmod>2020-12-12T07:11:27-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>https://cliftn.com/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>https://cliftn.com/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/work/</loc>
+<loc>https://cliftn.com/</loc>
 </url>
 </urlset>
