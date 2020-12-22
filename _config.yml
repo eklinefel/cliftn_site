@@ -24,7 +24,7 @@ cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 #page.title: "CLIFTN: Light Electric BMX and Road Bikes"
 #site.title: 
-description: "We are developing state-of-the-art electric bikes.  Check out our latest Electric BMX and light Electric Road Bikes!"
+description: "We are developing state-of-the-art electric bikes.  Check out our latest Electric BMX and Light Electric Road Bikes!"
 permalink: /:title/
 
 # Build settings
