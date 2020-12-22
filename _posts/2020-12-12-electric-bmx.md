@@ -19,7 +19,7 @@ OK, so we might be a little biased here, but of course we think our Prototype 1 
 
 ## 2. Zooz UU 250 ##
 
-The guys over at [Zooz](https://zoozbikes.com/) really hit it out of the park with their UU seris of electric BMX-style bikes. UU stands for Urban Ultralight, although the bike weighs in at a hefty 44.1 lbs. The classic style is undeniable though, and the video content on their site is pretty great, showing some riders launch gaps, rip burnouts, and even nose-wheelie with the front disc brakes. They hide the battery under the motocross style seat and utilize a rear hub-motor, not sure if it is geared or not.  Either way these guys are killing it, and I can't wait to see what they come up with next!
+The guys over at [Zooz](https://zoozbikes.com/) really hit it out of the park with their UU series of electric BMX-style bikes. UU stands for Urban Ultralight, although the bike weighs in at a hefty 44.1 lbs. The classic style is undeniable though, and the video content on their site is pretty great, showing some riders launch gaps, rip burnouts, and even nose-wheelie with the front disc brakes. They hide the battery under the motocross style seat and utilize a rear hub-motor, not sure if it is geared or not.  Either way these guys are killing it, and I can't wait to see what they come up with next!
 
 ![Zooz]({{ site.baseurl }}/img/zooz.jpg)
 
