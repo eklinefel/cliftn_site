@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 4 Electric BMX (Inspired) Bikes for 2021 [Updated List]
+title: Top 4 Electric BMX (Inspired) Bikes for 2021! [Updated List]
 subtitle: test1
 date: 2020-12-12 12:11:27
 author: Eric Klinefelter
