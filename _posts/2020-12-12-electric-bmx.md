@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 4 Electric BMX Bikes for 2021 [Updated List]
+title: Top 4 Electric BMX (Inspired) Bikes for 2021 [Updated List]
 subtitle: test1
 date: 2020-12-12 12:11:27
 author: Eric Klinefelter
@@ -13,7 +13,7 @@ Here is the list of our top 4 electric BMX bikes for 2021!
 
 ## 1. CLIFTN Prototype 1 ##
 
-OK, so we might be a little biased here, but of course we think our Prototype 1 is the best, proper electric BMX bike. This is our first prototype which was used as a proof-of-concept. We are currently designing our own mid-drive system that is already much lighter than anything else on the market, and the battery and controller are completely custom as well. The initial specs are listed in the table at the bottom of the page as 'Prototype 2'. We'll start taking pre-orders in early 2021, so stay tuned on our website for more details.
+Of course we think our Prototype 1 is the best, proper electric BMX bike for 2021! This is our first prototype which was used as a proof-of-concept. We are currently designing our own mid-drive system that is already much lighter than anything else on the market, and the battery and controller are completely custom as well. The initial specs are listed in the table at the bottom of the page as 'Prototype 2'. We'll start taking pre-orders in early 2021, so stay tuned on our website for more details.
 
 ![CLIFTN Electric BMX Bike]({{ site.baseurl }}/img/electric-bmx-1.jpg)
 
